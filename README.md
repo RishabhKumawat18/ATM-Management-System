@@ -1,5 +1,5 @@
 # ATM-Management-System
-This project is created by using Python oops concepts and using Tkinter library and json file for storing data.
+This project is created by using Python OOPS Concepts(encapsulation, abstraction, inheritance, polymorphism) and using Tkinter library for GUI(Graphical user interface) and json file for storing data.
 
 the key points of ATM Management System:
 
