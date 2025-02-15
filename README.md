@@ -1,6 +1,8 @@
 # ATM-Management-System
-This project is created by using Python oops concepts and using Tkinter library and json file for storing data. 
+This project is created by using Python oops concepts and using Tkinter library and json file for storing data.
+
 the key points of ATM Management System:
+
 Account Creation – Users can create an account by providing necessary details.
 PIN Setup & Authentication – Users set a PIN for security, which is required for transactions.
 Deposit Money – Users can add money to their account balance.
